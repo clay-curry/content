@@ -69,7 +69,7 @@ Possible types are the following:
 - `timeZoneName`
   - : The string used for the name of the time zone, for example `"UTC"`. Default is the timezone of the current environment.
 - `weekday`
-  - : The string used for the weekday, for example `"M"`, `"Monday"`, or `"Montag"`.
+  - : The string used for the weekday, for example `"M"`, `"Mon"`, or `"Monday"`.
 - `year`
   - : The string used for the year, for example `"2012"` or `"96"`.
 - `yearName`
